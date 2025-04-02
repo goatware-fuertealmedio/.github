@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" width="200" alt="FUERTE AL MEDIO Logo">
+  <img src="../assets/logo.png" width="200" alt="FUERTE AL MEDIO Logo">
   <h1>⚽ FUERTE AL MEDIO - Sistema de Reserva de Canchas</h1>
   <p><i>Reserva tu cancha de fútbol perfecta en segundos</i></p>
 </div>
